@@ -18,7 +18,7 @@ Minidjvu will get better compression on bitonal images than cjb2 (part of djvuli
 
 ## Installation
 
-Installation should be as simple as `./setup.py install` on Unix based systems. You can add `--dry-run` if you want to check what will happen before doing it, or just use `--help` for all the details on options. Those with debian based distros will probably be insterest in `--install-layout=deb`.
+Installation should be as simple as `./setup.py install` on Unix based systems. You can add `--dry-run` if you want to check what will happen before doing it, or just use `--help` for all the details on options. Those with debian based distros will probably be interested in `--install-layout=deb`.
 
 Installation is not necessary, since djvubind can run straight from the unpacked source. This is actually preferred in a Windows environment
 
